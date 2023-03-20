@@ -5,6 +5,4 @@
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
-<p align="center">
-  <img width="250" height="250" src="https://www.hizliresim.com/p4c115e">
-</p>
+![binary_search_tree](https://user-images.githubusercontent.com/127662417/226404236-07fabb71-c576-4d55-9d78-1f9f144bd912.jpg)
